@@ -83,12 +83,11 @@ No optimizer shortcuts — only raw linear algebra and calculus.
 
 ---
 
-## 🧩 Folder Structure
-ANN_From_Scratch/
-│
-├── ANN_Assignment_1_NN.ipynb # Python implementation
-├── ann.pdf # Manual math & handwritten derivations
-├── README.md # Project documentation (this file)
+🧩 Folder Structure
+
+- ANN_from_scratch.ipynb — Python implementation of ANN from scratch (no sklearn or keras)
+- ann.pdf — Manual math derivations and handwritten calculations
+- README.md — Project documentation (this file)
 
 ---
 
